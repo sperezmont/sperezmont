@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sperezmont (Sergio)
 - 👀 I’m interested in glaciology mainly but also mountain climatology and meteorology
-- 🌱 I’m currently working in PalMA-Ice group!
+- 🌱 I’m currently working in PalMA-Ice group! (https://github.com/palma-ice)
 <!---
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
